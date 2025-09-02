@@ -55,7 +55,7 @@ dependencies:
   - certifi=2025.7.14=pyhd8ed1ab_0
   - cffi=1.17.1=py311he736701_0
   - charset-normalizer=3.4.2=pyhd8ed1ab_0
-  - click=8.2.2=pyh7428d3b_0
+  - click>=8,<9
   - cloudpickle=3.1.1=pyhd8ed1ab_0
   - colorama=0.4.6=pyhd8ed1ab_1
   - comm=0.2.2=pyhd8ed1ab_1
@@ -382,6 +382,4 @@ dependencies:
   - zlib=1.2.13=h8cc25b3_1
   - zstandard=0.23.0=py311he736701_2
   - zstd=1.5.6=h8880b57_0
-  - pip:
-      - jfk-taxis==0.1.0
 prefix: C:\Users\ogilv\miniconda3\envs\datasci
